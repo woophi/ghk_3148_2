@@ -147,7 +147,7 @@ export const App = () => {
             {totalOverpay.toLocaleString('ru')} ₽
           </Typography.Text>
 
-          <Typography.Text view="primary-small">Эту сумму вы переплатите за весь период займа</Typography.Text>
+          <Typography.Text view="primary-small">Сумма переплаты в месяц</Typography.Text>
         </div>
       </div>
       <div className={appSt.bottomBtn}>
